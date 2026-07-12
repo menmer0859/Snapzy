@@ -3647,7 +3647,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kostenlos"
+            "value": "Frei"
           }
         },
         "en": {
@@ -3659,31 +3659,31 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gratis"
+            "value": "Libre"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gratuit"
+            "value": "Libre"
           }
         },
         "ja": {
           "stringUnit": {
             "state": "translated",
-            "value": "無料"
+            "value": "自由"
           }
         },
         "ko": {
           "stringUnit": {
             "state": "translated",
-            "value": "무료"
+            "value": "자유"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Бесплатно"
+            "value": "Свободно"
           }
         },
         "vi": {
@@ -3695,13 +3695,13 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "免费"
+            "value": "自由"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "免費"
+            "value": "自由"
           }
         }
       }
